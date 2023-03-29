@@ -32,6 +32,7 @@ Copiar y pegar una captura de pantalla con el mensaje donde el cliente expresa s
 - **Client ID** _(obligatorio siempre)_:
 - **Conversación**:
 
+`De acá para abajo se completa después de creado el issue por Tech Support y Product Managers - NO BORRAR DEL TEMPLATE `
 
 ## RICE
 (Para completar en una segunda instancia por Products Managers)
