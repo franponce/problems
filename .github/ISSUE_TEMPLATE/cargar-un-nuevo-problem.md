@@ -9,8 +9,8 @@ assignees: ''
 
 **Reminders** (Borrar antes de cargar)
 
-:marca_de_verificación_blanca: Ya busqué y el problem todavía no existe (usar palabras clave, buscar variaciones de la misma frase, filtrar resultados)
-:marca_de_verificación_blanca:  Tag del producto a reportar
+:white_check_mark: Ya busqué y el problem todavía no existe (usar palabras clave, buscar variaciones de la misma frase, filtrar resultados)
+:white_check_mark: Tag del producto a reportar
 
 No olvides crear un título describiendo el PROBLEMA, y no una posible solución. Las siguientes preguntas son a modo de guía para completar.
 
